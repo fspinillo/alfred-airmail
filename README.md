@@ -3,7 +3,8 @@ Simple workflow to be used with Airmail
 
 ###Compose new email
 
-This will switch over to Airmail and open a compose window.
+This will switch over to Airmail and open a compose window.  
+If you're using Airmail 2.0 please download the workflow labled 2.0. Airmail 2.0 has menu changes that affect how the workflow function.
 
 
 ###Search Unified inbox
